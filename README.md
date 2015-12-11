@@ -6,3 +6,6 @@ Most of script was found in this old reddit post: https://www.reddit.com/r/compu
 Tweaking to make work better in Win 10.
 
 Run as administrator from <code>cmd</code> or PowerShell
+
+## Issues
+Drive space for C: seems to be calculated correctly, but other drives are not.
